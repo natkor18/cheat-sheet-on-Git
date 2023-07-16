@@ -24,7 +24,7 @@
 - Проверить состояние репозитория
 - Cоздание коммитов  
 ## [Шпаргалка по Markdown](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/cheat-on-Markdown.md)  
-
 ## [Хеш — идентификатор коммита](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/hash-commit.md)  
+## [Статус Git](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/status_git.md)
 
 
