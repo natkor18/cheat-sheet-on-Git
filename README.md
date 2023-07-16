@@ -1,6 +1,6 @@
 ## Шпаргалка по работе с Git
 
-[Что такое Git](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/what-is-git.md)
+[Что такое Git](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/what-is-git.md)<br/>
 [Установка командной строки для пользователей Windows](https://github.com/natkor18/cheat-sheet-on-Git/blob/master/install_git_ex2.md)
 - Инструкция по установке для пользователей Windows
 - Первый запуск Git Bash
